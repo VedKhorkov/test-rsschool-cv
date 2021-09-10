@@ -1,1 +1,0 @@
-https://VedKhorkov.github.io/test-rsschool-cv/cv
