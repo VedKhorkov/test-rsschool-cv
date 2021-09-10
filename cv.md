@@ -15,3 +15,10 @@
 * JavaScript
 * Git
 ---
+### Code Example
+```
+function highAndLow(numbers){
+    let numbersArray = numbers.split(' ')
+    return String(Math.max(...numbersArray)) + ' ' + String(Math.min(...numbersArray))
+}
+```
